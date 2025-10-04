@@ -1,0 +1,24 @@
+{
+  "unavailable_services": [
+    {
+      "service": "Backend Development",
+      "description": "I do not provide backend development (Python, C, C++, etc.) because my experience is limited to personal and small-scale projects. I lack production-level deployment expertise, and for stable backend requirements, I recommend specialized backend developers."
+    },
+    {
+      "service": "Full-Stack Deployment",
+      "description": "I do not offer full-stack deployment services due to limited experience with production hosting, server configuration, and security management. I do not specialize in fullstack even if i've done many fullstack projects."
+    },
+    {
+      "service": "Custom API Integration",
+      "description": "I do not integrate custom APIs or develop API endpoints, as this area is outside my specialization and most of my projects have not required it."
+    },
+    {
+      "service": "Backend Security & Authentication",
+      "description": "I do not provide backend security or authentication systems, as these require full-stack expertise and production-level security experience, which I do not currently possess."
+    },
+    {
+      "service": "Custom AI Assistants",
+      "description": "I do not develop custom AI assistants because creating a reliable assistant requires extensive development time and server hosting capabilities. My experience is limited to local hosting and personal experimental projects, which are not intended for commercial use."
+    }
+  ]
+}

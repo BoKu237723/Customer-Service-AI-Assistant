@@ -1,0 +1,26 @@
+{
+  "other_services": [
+    {
+      "service": "Java Swing Desktop Applications",
+      "description": "Development of desktop-based management applications using Java Swing. Suitable for small business starters who need offline or standalone tools.",
+      "features": [
+        "Inventory, staff, or sales management systems",
+        "Integration with local MySQL or cloud-hosted MongoDB Atlas",
+        "Delivered as ready-to-run executable files (.exe)",
+        "User-friendly interfaces (not fancy design) designed for non-technical users"
+      ],
+      "notes": "Focused on small-scale projects, not enterprise-grade systems."
+    },
+    {
+      "service": "Database Problem Solving",
+      "description": "Assistance with database-related errors, optimization, and problems for small business or personal projects.",
+      "features": [
+        "Schema design for small business use cases",
+        "Backup, restore, and migration support",
+        "Debugging authentication or query errors",
+        "Query optimization for better performance"
+      ],
+      "notes": "Limited to MySQL and MongoDB databases."
+    }
+  ]
+}

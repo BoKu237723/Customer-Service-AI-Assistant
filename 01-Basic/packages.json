@@ -1,0 +1,85 @@
+{
+  "plans": [
+    {
+      "name": "Shared Template Package",
+      "type": "One-Time Payment", 
+      "price": "50,000 MMK",
+      "features": [
+        "Can choose from given templates",
+        "Responsive designs", 
+        "Up to 3 pages",
+        "Hosted on Netlify",
+        "Cross-browser compatibility",
+        "Mobile-Friendly Layouts", 
+        "Quick Delivery (1-2 days)"
+      ],
+      "support": "Email Support for technical errors",
+      "updates": "Paid updates",
+      "note": "Source Code not Shared; Templates are reused for multiple clients"
+    },
+    {
+      "name": "Basic Package",
+      "type": "One-Time Payment",
+      "price": "100,000 MMK", 
+      "features": [
+        "Responsive designs",
+        "New Template",
+        "Up to 5 pages",
+        "Cross-browser compatibility",
+        "Hosted on Netlify",
+        "Mobile-Friendly Layouts",
+        "Bug fixes for 1 months"
+      ],
+      "support": "Email Support for technical errors", 
+      "updates": "Paid updates",
+      "note": "Source Code not Shared; Client owns final output"
+    },
+    {
+      "name": "Pro Frontend Package",
+      "type": "One-Time Payment",
+      "price": "150,000 MMK",
+      "features": [
+        "Responsive designs",
+        "Up to 10 Pages", 
+        "Frontend Customization",
+        "Interactive elements: animations, sliders, modals",
+        "Cross-browser compatibility",
+        "Hosted on Netlify",
+        "Mobile-Friendly Layouts", 
+        "Design Updates, Technical Updates, Information Updates up to 3 months"
+      ],
+      "support": "Email Support for technical errors",
+      "updates": "Free updates up to 3 months", 
+      "note": "Source Code not Shared; Client owns the final output"
+    },
+    {
+      "name": "Campain Package",
+      "type": "One-Time Payment", 
+      "price": "35,000 MMK",
+      "features": [
+        "Single-page design for products, events or promotions",
+        "Optimal : social media banners", 
+        "Responsive designs",
+        "New Template", 
+        "Hosted on Netlify",
+        "Cross-browser compatibility",
+        "Mobile-Friendly Layouts",
+        "Bug fixes for 1 months"
+      ],
+      "support": "Email Support for technical errors",
+      "updates": "Paid updates", 
+      "note": "Source Code not Shared; Client owns final output"
+    },
+    {
+      "name": "Monthly Paid Subscription", 
+      "type": "Recurring Payment",
+      "price": "15% discount for all packages",
+      "features": [
+        "Available for all Packages : Shared, Basic, Pro, Campain"
+      ],
+      "support": "Priority email support included",
+      "updates": "Free updates for all Package types",
+      "note": "Source Code not Shared; Client owns final output"
+    }
+  ]
+}
